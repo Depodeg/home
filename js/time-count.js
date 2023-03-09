@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-	const timeoutdate = new Date('Mar 1 2023 15:00:00');
+	const timeoutdate = new Date('Mar 20 2023 15:00:00');
 	
 	const daysVal = document.querySelector('.time-count_days .time-count_val');
 	const hoursVal = document.querySelector('.time-count_hours .time-count_val');
